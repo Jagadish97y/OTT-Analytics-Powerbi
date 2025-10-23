@@ -41,6 +41,7 @@ The `.pbit` file (`OTT_Analytics.pbit`) contains the Power BI template, while th
 |------|--------------|
 | `OTT_Analytics.pbit` | Power BI template file with data model and visualizations |
 | `OTT_Analytics.pdf` | Exported version of the dashboard for static viewing |
+| `/images/` | Folder containing screenshots, logos and visuals of the dashboard |
 
 ---
 
